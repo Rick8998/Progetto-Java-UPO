@@ -3,7 +3,7 @@
 # Progetto di Paradigmi di Programmazione (parte Java) o Programmazione ad Oggetti 2019/2020
 
 # Realizzazione di Battaglia Navale
-Il progetto va svolto in un Gruppo di massimo 3 persone. Il progetto deve essere consegnato 2/3 giorni prima dell'esame scritto (vi metterò un contenitore nel sito del corso) e vale 1/3 del voto complessivo (per il corso di paradigmi di programmazione) e 1/2 del voto complessivo (per il corso di programmazione ad oggetti). Tutti i gruppi devono implementare il progetto come richiesto in questa guida. Alcune funzionalità sono indicate come opzionali (OPZ). Tali funzionalità sono le uniche facoltative. Il voto massimo di laboratorio, nel caso in cui siano state implementate anche le funzionalità opzionali, è 33 (30 e lode), mentre senza le funzionalità opzionali è 271. Nella relazione consegnata (vedi sotto) deve essere indicato se le funzionalità opzionali sono state implementate o no.
+
 Requisiti generali
 Lo svolgimento del progetto deve tenere in considerazione i seguenti requisiti:
 • le classi del modello (non le viste, né i controller) devono essere corredate da classi di test;
